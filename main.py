@@ -1,3 +1,2 @@
-class Main {
-  public static void main()
+print[hi maryam]
 }
